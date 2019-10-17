@@ -1,0 +1,13 @@
+{
+  "name": "enigma-js",
+  "version": "1.0.0",
+  "description": "A JavaScript Enigma Machine emulator",
+  "main": "index.js",
+  "author": "Jacob Tomlinson <jacob@tom.linson.uk>",
+  "license": "GPLv3",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0"
+  }
+}
